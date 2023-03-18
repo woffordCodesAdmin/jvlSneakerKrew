@@ -1,0 +1,138 @@
+.navbar{
+    border:solid white;
+    padding:20px;
+}
+.featurePic{
+    width:100%;
+}
+.topSlide{
+    border:solid white;
+    padding:1em;
+    display: flex;
+    justify-content: space-evenly;
+    color:lime;
+}
+.optionBox{
+    border:9px double white;
+    font-family:serif;
+    margin:1em;
+    padding:1.3em;
+    justify-content: space-around;
+}
+.scraperLinq{
+    width:100%;
+    text-align:center;
+}
+.productLink{
+    width:100%;
+    display:flex;
+    justify-content:space-evenly;
+}
+.kqSpin{
+    width:100%;
+}
+.muse{
+    width:100%;
+    
+}
+
+.bOnes{
+    width:100%;
+}
+
+.nput{
+    background-color:black;
+    text-align:center;
+    color:lime;
+    border-radius:12px;
+    width:40%;
+    font-size:18px;
+    font-family:'Courier New', Courier, monospace;
+    padding:5px;
+}
+.nput2{
+    background-color:black;
+    text-align:center;
+    color:lime;
+    border-radius:12px;
+    width:33%;
+    margin:1em;
+    font-size:18px;
+    font-family:'Courier New', Courier, monospace;
+    padding:5px;
+}
+.btnForm{
+    border:solid lime;
+    text-align:center;
+    color:lime;
+    border-radius:22px;
+    margin:1em;
+    font-size:22px;
+}
+.btnForm:hover{
+    border:solid lime;
+    text-align:center;
+    background-color:lime;
+    color:black;
+    border-radius:22px;
+    margin:1em;
+    font-size:22px;
+}
+.sneakerHolder{
+    border: .2px solid #333C3F;
+}
+.ft{
+    text-align:center;
+    font-size:42px;
+}
+.kiq{
+    height:120px;
+    width:185px;
+    margin:1em;
+    background-size:cover;
+    /* border:.2px solid white; */
+    border-radius:12px;
+}
+.sneaker{
+    border:solid #333C3F;
+    margin:1em;
+    display:flex;
+    justify-content: space-between;
+    padding:1em;
+}
+.sneaker:hover{
+    border: .2px solid lime;
+    margin:1em;
+    display:flex;
+    justify-content: space-between;
+    padding:1em;
+    color:lime;
+}
+.descrip{
+    width:45%;
+    text-align:right;
+    font-family:'Courier New', Courier, monospace;
+}
+.logoContainer{
+    padding:22px;
+}
+.brand{
+    height:55px;
+    width:55px;
+    border:solid white;
+    border-radius:50%;
+    background-image:url('https://thumbs.gfycat.com/ConventionalDrearyKoalabear-max-1mb.gif');
+}
+.jvlivn{
+    color:white;
+    border: 9px double salmon;
+    display: flex;
+    justify-content: space-around;
+    padding:2em;
+    font-size:32px;
+    
+}
+.jey:hover{
+    color:lime;
+    
+}
