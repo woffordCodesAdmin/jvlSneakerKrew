@@ -115,6 +115,8 @@
 }
 .logoContainer{
     padding:22px;
+    display: flex;
+    justify-content: space-evenly;
 }
 .brand{
     height:35px;
@@ -135,4 +137,35 @@
 .jey:hover{
     color:lime;
     
+}
+
+.productBox{
+    border:.2px solid white;
+    padding:1em;
+    flex-wrap:wrap;
+    display: flex;
+    margin-top:4em;
+}
+.producx{
+    border:solid grey;
+    width:40%;
+    margin:1em;
+}
+.titlebox{
+    border:solid #333C3F;
+    text-align:center;
+}
+.starHolder{
+    border:solid white;
+    display: flex;
+    justify-content: space-evenly;
+    padding:8px;
+}
+.str{
+    height:30px;
+
+}
+.item{
+    width:100%;
+    height:250px;
 }
