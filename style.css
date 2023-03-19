@@ -189,3 +189,16 @@
     color:lime;
     border:.2px solid #333C3F;
 }
+iframe{
+    border: solid white;
+
+}
+.canv-intro{
+    color:white;
+    text-align:center;
+    font-size:35px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.kikk{
+    width:100%;
+}
