@@ -1,12 +1,13 @@
 .navbar{
-    border:solid white;
+    border:.2px solid white;
     padding:20px;
+    height:6vh;
 }
 .featurePic{
     width:100%;
 }
 .topSlide{
-    border:solid white;
+    border:.2px solid white;
     padding:1em;
     display: flex;
     justify-content: space-evenly;
