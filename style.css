@@ -140,8 +140,8 @@
 }
 
 .productBox{
-    border:.2px solid white;
-    padding:1em;
+    /* border:.2px solid white; */
+    padding:.4em;
     flex-wrap:wrap;
     display: flex;
     margin-top:4em;
@@ -162,7 +162,7 @@
     padding:8px;
 }
 .str{
-    height:30px;
+    height:15px;
 
 }
 .item{
