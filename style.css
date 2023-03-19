@@ -186,7 +186,7 @@
 .offcanvas-header,.offcanvas-body{
     background-image:url('https://64.media.tumblr.com/6ebf6d96d595445613a46a71ed11572c/tumblr_pmd6e6Ol7y1runoqyo9_r1_540.gif');
     background-size: cover;
-    color:lime;
+    color:lemonchiffon;
     border:.2px solid #333C3F;
 }
 iframe{
@@ -201,4 +201,26 @@ iframe{
 }
 .kikk{
     width:100%;
+    border: 6px double peru;
+}
+.scraperWhiz{
+    width:70%;
+    border-radius:22px;
+    text-align:center;
+    margin-top:3%;
+    background-color:#333C3F;
+    color:peru;
+    border: .2px solid peru;
+}
+.snQdump{
+    margin-top:40px;
+    border:.2px solid peru;
+}
+.submiter{
+    background-color:#333C3F;
+    border-radius:22px;
+    border: .2px solid peru;
+    color:peru;
+    padding-left:19px;
+    padding-right:19px;
 }
